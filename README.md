@@ -2,7 +2,7 @@
 
 I created this project as part of [#100DaysofCode](https://gist.github.com/jasheloper/a46c5c252bacf7d03de62c481459d13d) to practice Reactjs concepts - props, state, and hooks.
 
-This project is a simple list of my favorite TV shows with the option to change the theme of the site. 
+This project is a simple list of my favorite movies & TV shows with the option to change the theme of the site. 
 
 
 <br />
