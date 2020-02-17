@@ -217,8 +217,7 @@ function App() {
           It's Showtime! <img src={movie} alt="show" />
         </h1>
         <h3>
-          Here you will find a list of recommended shows and movies that I've
-          watched and recommend!{" "}
+          Here you will find a list of some of my favorite tv shows and movies!{" "}
         </h3>
       </div>
 
