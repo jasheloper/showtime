@@ -373,7 +373,7 @@
   text-align: center;
   background: none;
   padding: 40px;
-  line-height: 40px;
+  line-height: 60px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -391,7 +391,7 @@
   background: black; 
   text-align: center;
   padding: 40px;
-  line-height: 40px;
+  line-height: 60px;
 }
 
 @media only screen and (max-width: 600px) {

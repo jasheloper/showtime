@@ -264,13 +264,20 @@ function App() {
 
       <div className={darkMode ? "footer-dark" : "footer"}>
           <div >
-            © 2020 Jashele Tillman
+           © 2020 <a href="https://jasheletillman.me/" target="_blank" rel="noopener noreferrer">Jashele Tillman</a>   
           </div>
+
+        
+
+     
           <div>
-            <a href="#">
+         [ <a href="#">
               Back to Top
-            </a>
+            </a> ]
           </div>
+   
+           
+          
         </div>
     </>
   );
