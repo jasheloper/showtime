@@ -245,6 +245,12 @@
   font-weight: lighter;
 }
 
+@media only screen and (max-width: 600px) {
+  .show {
+    width: auto; 
+  }
+}
+
 
 .show-dark {
   text-align: center;
@@ -260,6 +266,13 @@
   color: rgb(236, 236, 236);
   background: black;
 }
+
+@media only screen and (max-width: 600px) {
+  .show-dark {
+    width: auto; 
+  }
+}
+
 
 .show-header {
   text-align: center;
