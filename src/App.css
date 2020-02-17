@@ -13,7 +13,6 @@
   color: white;
 }
 
-
 .app-dark {
   background: #000000; /* fallback for old browsers */
   background: -webkit-linear-gradient(
@@ -40,8 +39,6 @@
 .app-dark a {
   color: white;
 }
-
-
 
 .header {
   background: #ed213a; /* fallback for old browsers */
@@ -247,10 +244,9 @@
 
 @media only screen and (max-width: 600px) {
   .show {
-    width: auto; 
+    width: auto;
   }
 }
-
 
 .show-dark {
   text-align: center;
@@ -269,10 +265,9 @@
 
 @media only screen and (max-width: 600px) {
   .show-dark {
-    width: auto; 
+    width: auto;
   }
 }
-
 
 .show-header {
   text-align: center;
@@ -388,7 +383,7 @@
 
 .footer-dark {
   color: white;
-  background: black; 
+  background: black;
   text-align: center;
   padding: 40px;
   line-height: 60px;
