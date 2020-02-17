@@ -7,5 +7,9 @@ This project is a simple list of my favorite TV shows with the option to change 
 
 <br />
 
+![100 Days of Code Journal - Jashele Tillman](https://media.giphy.com/media/ggzJKJOFHsyUrhjL7N/giphy.gif "100 Days of Code Journal - Jashele Tillman")
+
+<br />
+
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/64f11676-ea2d-49e5-a097-6786611c3c13/deploy-status)](https://app.netlify.com/sites/jasheles-shows/deploys)
