@@ -23,8 +23,8 @@
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to top,
-    #000000,
-    #181717
+    #1b1b1b,
+    #1b1b1b
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
   min-height: 100vh;
@@ -42,22 +42,6 @@
 }
 
 
-
-@media only screen and (max-width: 600px) {
-  .app-dark {
-    background: #000000; /* fallback for old browsers */
-    background: -webkit-linear-gradient(
-      to top,
-      #000000,
-      #3d3d3d
-    ); /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(
-      to top,
-      #111111,
-      #201f1f
-    ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  }
-}
 
 .header {
   background: #ed213a; /* fallback for old browsers */
@@ -264,7 +248,7 @@
 
 .show-dark {
   text-align: center;
-  max-width: 320px;
+  max-width: 380px;
   border-radius: 30px;
   background: white;
   margin: 30px;
@@ -376,7 +360,7 @@
   text-align: center;
   background: none;
   padding: 40px;
-  line-height: 20px;
+  line-height: 40px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -390,10 +374,11 @@
 }
 
 .footer-dark {
+  color: white;
+  background: black; 
   text-align: center;
-  background: none;
   padding: 40px;
-  line-height: 20px;
+  line-height: 40px;
 }
 
 @media only screen and (max-width: 600px) {

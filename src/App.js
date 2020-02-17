@@ -263,8 +263,8 @@ function App() {
       </div>
 
 
-      <div className="footer">
-          <div className={darkMode ? "footer-dark" : "footer"}>
+      <div className={darkMode ? "footer-dark" : "footer"}>
+          <div >
             © 2020 Jashele Tillman
           </div>
           <div>
